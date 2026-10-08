@@ -1,2 +1,2 @@
-# eventplaner_test
-Eventplaner für alles im Allgäu
+# tankfinder_prog3
+Tankpreise finden im Allgäu
